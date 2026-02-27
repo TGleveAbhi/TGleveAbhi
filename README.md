@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">🚀 Passionate Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
@@ -46,7 +46,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Abhi&theme=radical" />
 </p>
 
 ---
@@ -59,4 +59,4 @@
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [YOUR_USERNAME](https://github.com/TGleveAbhi)
